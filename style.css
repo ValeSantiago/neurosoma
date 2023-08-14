@@ -1,0 +1,45 @@
+.nav-item{
+    font-family:'Poppins', sans-serif;
+    font-weight: bold; 
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+} 
+
+h1{
+    font-family:'Poppins', sans-serif;
+    font-weight: bold; 
+    color: goldenrod;
+}
+
+h2{
+    font-family:'Poppins', sans-serif;
+}
+h5{
+    font-family:'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family:'Poppins', sans-serif;
+}
+.form-label{
+    font-family:'Poppins', sans-serif;
+}
+.img-1{
+    height: 40px;
+}
+
+.list-group {
+    margin: 20px 20px 20px 20px;
+    font-family:'Poppins', sans-serif;;
+}
+.list-group-item {
+    text-decoration: none;
+    color: black;
+}
+
+.text-footer{
+    text-decoration: none;
+    color: black;
+}
